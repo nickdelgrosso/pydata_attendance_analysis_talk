@@ -1,0 +1,5 @@
+'get_data', (0, 103)
+'plot_attendance', (512, 162)
+'export_notebooks:export notebookSuperPython.ipynb', (1024, 208)
+'export_notebooks', (1536, 56)
+'export_notebooks:export notebookPyData.ipynb', (2048, 198)

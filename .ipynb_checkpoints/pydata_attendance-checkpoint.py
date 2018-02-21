@@ -11,5 +11,4 @@ print(r.json())
 
 # Put into a Pandas dataframe
 df = pd.DataFrame(r.json())
-df = df[['name', 'local_date', 'yes_rsvp_count']]
 print(df)

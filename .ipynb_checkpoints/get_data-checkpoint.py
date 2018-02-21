@@ -13,3 +13,5 @@ print(r.json())
 df = pd.DataFrame(r.json())
 df = df[['name', 'local_date', 'yes_rsvp_count']]
 print(df)
+
+df.to_csv('data/attendance.csv')
